@@ -1,7 +1,7 @@
 import React from 'react'
-import { Button } from '@projectmeb/ui'
-//import { Button } from '@projectmeb/ui/components/atoms'
-//import Button from '@projectmeb/ui/components/atoms/Button'
+import { Button } from '@common/ui'
+//import { Button } from '@common/ui/components/atoms'
+//import Button from '@common/ui/components/atoms/Button'
 
 const App: React.FC = () => {
   return (
